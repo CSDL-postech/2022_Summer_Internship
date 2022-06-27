@@ -18,6 +18,14 @@
 ### Introduction
 [slide link](https://www.dropbox.com/s/w5rtcv9c855w6mv/0627_intro.pptx?dl=0)
 
+[Introduction to Deep Learning](https://www.youtube.com/watch?v=7sB052Pz0sQ&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)<br>
+[Introduction to Convolutional Neural Networks](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)<br>
+[CAD reading material](http://blogspot.designonchip.com/2009/10/rtl-engineer.html)<br>
+[Quantum Computers, Explained With Quantum Physics](https://youtu.be/jHoEjvuPoB8)<br>
+[Qiskit Textbook](https://qiskit.org/learn/)
+
+[Server access guide](https://www.dropbox.com/s/o3082ldw9tiffhc/Server%20Access.pptx?dl=0)
+
 ### Lec1. DLHW
 
 
