@@ -24,8 +24,6 @@
 [Quantum Computers, Explained With Quantum Physics](https://youtu.be/jHoEjvuPoB8)<br>
 [Qiskit Textbook](https://qiskit.org/learn/)
 
-[Server access guide](https://www.dropbox.com/s/o3082ldw9tiffhc/Server%20Access.pptx?dl=0)
-
 ### Lec1. DLHW
 
 
