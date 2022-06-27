@@ -16,8 +16,7 @@
 
 ## Basic courses (6/27 ~ 7/5)
 ### Introduction
-
-
+[slide link](https://www.dropbox.com/s/w5rtcv9c855w6mv/0627_intro.pptx?dl=0)
 
 ### Lec1. DLHW
 
