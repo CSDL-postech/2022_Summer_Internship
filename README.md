@@ -25,7 +25,7 @@
 [Qiskit Textbook](https://qiskit.org/learn/)
 
 ### Lec1. DLHW
-
+[slide link](https://www.dropbox.com/scl/fi/j7vph3e880u1tyfdnpd2s/220628_summer_intern_DLHS.pptx?dl=0&rlkey=m6z8qtuz2cqxqytxhv60yqdql)
 
 
 ### Lec2. CAD
