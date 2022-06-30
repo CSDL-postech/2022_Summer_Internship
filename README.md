@@ -29,7 +29,7 @@
 
 
 ### Lec2. CAD
-
+[slide link](https://www.dropbox.com/scl/fi/v7f3aj489jcn1f48c10l4/20220630_CAD_JSL.pptx?dl=0&rlkey=8i935wbqby7f4cwdevw193cz9)
 
 
 ### Lec3. QC
