@@ -33,7 +33,7 @@
 
 
 ### Lec3. QC
-
+[slide link](https://www.dropbox.com/s/yxnvj5wcaralcyo/0704_QC_basic.pptx?dl=0)
 
 
 ## Advanced courses (7/6 ~ 7/8)
