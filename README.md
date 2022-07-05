@@ -10,9 +10,11 @@
 | 6/28 (Tue) | PM 2:00 | Lec1. DLHW | 김서정, 이승주 |
 | 6/30 (Thu) | PM 2:00 | Lec2. CAD | 이재승 |
 | 7/4 (Mon) | PM 2:00 | Lec3. QC | 김도훈 |
-| 7/6 (Wed) | AM 10:00 | Adv1. DLHW | 김서정, 이승주 | 
-| 7/6 (Wed) | PM 2:00 | Adv2. CAD | 이재승 | 
-| 7/6 (Wed) | PM 4:00 | Adv3. QC | 김도훈 | 
+| 7/6 (Wed) | PM 1:00 | Python | 김도훈 |
+| 7/6 (Wed) | PM 2:30 | Research Topics | 김서정, 이승주, 권성빈, 김도훈 | 
+| 7/7 (Thu) | PM 1:00 | Adv1. DLHW | 김서정, 이승주 | 
+| 7/7 (Thu) | PM 2:30 | Adv2. CAD | 김민재 | 
+| 7/7 (Thu) | PM 4:00 | Adv3. QC | 김도훈 | 
 
 ## Basic courses (6/27 ~ 7/5)
 ### Introduction
