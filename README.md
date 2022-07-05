@@ -39,9 +39,11 @@
 [slide link](https://www.dropbox.com/s/yxnvj5wcaralcyo/0704_QC_basic.pptx?dl=0)
 
 ### Lec4. Python OOP (7/6)
-
+[lec1_python_basics.ipynb](https://www.dropbox.com/s/vsxzz53226ksm5u/lec1_python_basics.ipynb?dl=0) <br>
+[lec2_pytho_oop.ipynb](https://www.dropbox.com/s/654sa91mt6lcrp8/lec2_python_oop.ipynb?dl=0) <br>
 
 ### Lec5. ML Basics (7/6)
+[lec3_data_library.ipynb](https://www.dropbox.com/s/654sa91mt6lcrp8/lec2_python_oop.ipynb?dl=0)
 
 
 ## Advanced courses
