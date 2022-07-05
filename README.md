@@ -17,8 +17,8 @@
 | 7/7 (Thu) | PM 3:30 | Adv2. DLHW | 김서정, 이승주 | 
 | 7/8 (Fri) | PM 1:00 | Adv3. QC | 김도훈 | 
 
-## Basic courses (6/27 ~ 7/5)
-### Introduction
+## Basic courses
+### Introduction (6/27)
 [slide link](https://www.dropbox.com/s/w5rtcv9c855w6mv/0627_intro.pptx?dl=0)
 
 [Introduction to Deep Learning](https://www.youtube.com/watch?v=7sB052Pz0sQ&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)<br>
@@ -27,26 +27,31 @@
 [Quantum Computers, Explained With Quantum Physics](https://youtu.be/jHoEjvuPoB8)<br>
 [Qiskit Textbook](https://qiskit.org/learn/)
 
-### Lec1. DLHW
+### Lec1. DLHW (6/28)
 [slide link](https://www.dropbox.com/scl/fi/j7vph3e880u1tyfdnpd2s/220628_summer_intern_DLHS.pptx?dl=0&rlkey=m6z8qtuz2cqxqytxhv60yqdql)
 
 
-### Lec2. CAD
+### Lec2. CAD (6/30)
 [slide link](https://www.dropbox.com/scl/fi/v7f3aj489jcn1f48c10l4/20220630_CAD_JSL.pptx?dl=0&rlkey=8i935wbqby7f4cwdevw193cz9)
 
 
-### Lec3. QC
+### Lec3. QC (7/4)
 [slide link](https://www.dropbox.com/s/yxnvj5wcaralcyo/0704_QC_basic.pptx?dl=0)
 
-
-## Advanced courses (7/6 ~ 7/8)
-### Adv1. DLHW
+### Lec4. Python OOP (7/6)
 
 
-### Adv2. CAD
+### Lec5. ML Basics (7/6)
 
 
-### Adv3. QC
+## Advanced courses
+### Adv1. CAD (7/7)
+
+
+### Adv2. DLHW (7/7)
+
+
+### Adv3. QC (7/8)
 
 
 
