@@ -41,7 +41,7 @@
 ### Lec4. Python OOP (7/6)
 [lec1_python_basics.ipynb](https://www.dropbox.com/s/vsxzz53226ksm5u/lec1_python_basics.ipynb?dl=0) <br>
 [lec2_pytho_oop.ipynb](https://www.dropbox.com/s/654sa91mt6lcrp8/lec2_python_oop.ipynb?dl=0) <br>
-[lec3_data_library.ipynb](https://www.dropbox.com/s/654sa91mt6lcrp8/lec2_python_oop.ipynb?dl=0)
+[lec3_data_library.ipynb](https://www.dropbox.com/s/ik3143xwuh2ya0n/lec3_data_library.ipynb?dl=0)
 
 ### Lec5. ML Basics (7/6)
 [lec4_ml_basics.pptx](https://www.dropbox.com/s/3zyymcojhhe1s7v/lec4_ml_basics.pptx?dl=0)
