@@ -44,7 +44,8 @@
 [lec3_data_library.ipynb](https://www.dropbox.com/s/ik3143xwuh2ya0n/lec3_data_library.ipynb?dl=0)
 
 ### Lec5. ML Basics (7/6)
-[lec4_ml_basics.pptx](https://www.dropbox.com/s/3zyymcojhhe1s7v/lec4_ml_basics.pptx?dl=0)
+[lec4_ml_basics.pptx](https://www.dropbox.com/s/3zyymcojhhe1s7v/lec4_ml_basics.pptx?dl=0) <br>
+[data_lab1.txt](https://www.dropbox.com/s/tbxdlsmpln0m802/data_lab1.txt?dl=0)
 
 ## Advanced courses
 ### Adv1. CAD (7/7)
