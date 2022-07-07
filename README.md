@@ -40,7 +40,7 @@
 
 ### Lec4. Python OOP (7/6)
 [lec1_python_basics.ipynb](https://www.dropbox.com/s/vsxzz53226ksm5u/lec1_python_basics.ipynb?dl=0) <br>
-[lec2_pytho_oop.ipynb](https://www.dropbox.com/s/654sa91mt6lcrp8/lec2_python_oop.ipynb?dl=0) <br>
+[lec2_python_oop.ipynb](https://www.dropbox.com/s/654sa91mt6lcrp8/lec2_python_oop.ipynb?dl=0) <br>
 [lec3_data_library.ipynb](https://www.dropbox.com/s/ik3143xwuh2ya0n/lec3_data_library.ipynb?dl=0)
 
 ### Lec5. ML Basics (7/6)
@@ -50,10 +50,10 @@
 
 ## Advanced courses
 ### Adv1. CAD (7/7)
-
+[adv1_CAD_slide](https://www.dropbox.com/scl/fi/o6y20frq52h9irj145v9d/220706_summer_intern_CAD_ADV_MJK.pptx?dl=0&rlkey=djgahd5n1siz80b10nubkgm6o)
 
 ### Adv2. DLHW (7/7)
-
+[adv2_DLHW_slide](https://www.dropbox.com/scl/fi/ttauqffgz0fho41um8wpt/220706_summer_intern_DLHW_ADV.pptx?dl=0&rlkey=1ppo7ni2tvo953xkeb8iz9gzh)
 
 ### Adv3. QC (7/8)
 
