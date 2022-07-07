@@ -53,7 +53,7 @@
 [adv1_CAD_slide](https://www.dropbox.com/scl/fi/o6y20frq52h9irj145v9d/220706_summer_intern_CAD_ADV_MJK.pptx?dl=0&rlkey=djgahd5n1siz80b10nubkgm6o)
 
 ### Adv2. DLHW (7/7)
-[adv2_DLHW_slide](https://www.dropbox.com/scl/fi/ttauqffgz0fho41um8wpt/220706_summer_intern_DLHW_ADV.pptx?dl=0&rlkey=1ppo7ni2tvo953xkeb8iz9gzh)
+[adv2_DLHW_slide](https://www.dropbox.com/scl/fi/zcxyqini1cvhe9u9gyapy/220707_summer_intern_DLHW_ADV.pptx?dl=0&rlkey=6xye7aqqzjbei4jibr8f9zsoc)
 
 ### Adv3. QC (7/8)
 
