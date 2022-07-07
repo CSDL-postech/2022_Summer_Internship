@@ -56,7 +56,7 @@
 [adv2_DLHW_slide](https://www.dropbox.com/scl/fi/zcxyqini1cvhe9u9gyapy/220707_summer_intern_DLHW_ADV.pptx?dl=0&rlkey=6xye7aqqzjbei4jibr8f9zsoc)
 
 ### Adv3. QC (7/8)
-
+[adv3_QC_slide](https://www.dropbox.com/s/jv42fiemtlakg7q/220708_adv_QC.pptx?dl=0)
 
 
 ## Personal Research Projects (7/11 ~ 8/5)
