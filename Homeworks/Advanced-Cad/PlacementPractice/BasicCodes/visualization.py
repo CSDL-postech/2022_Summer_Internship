@@ -174,19 +174,20 @@ def draw_window(pad_list, cell_list, net_list, remark=0, initial_display=0, anim
             HPWL_text = myFont.render("HPWL: " + str(int(HPWL)), True, BLACK)
             screen.blit(T_text, [10, 30])
             screen.blit(HPWL_text, [10, 130])
-            filename = "images/SA/Snaps/%05d.png" % remark
+            if __name__ == "__main__":
+                filename = "../images/SA/Snaps/%05d.png" % remark
+            else:
+                filename = "images/SA/Snaps/%05d.png" % remark
             pygame.image.save(screen, filename)
         elif ver == "FD1":
             pygame.image.save(screen, "FD_images/" + "initial" + ".png")
         elif ver == "FD2":
             pygame.image.save(screen, "FD_images/" + "final" + ".png")
-
         elif ver == "FD3":
             myFont = pygame.font.SysFont("arial", 100, True, False)
             remark_text = myFont.render("N: " + str(remark), True, BLACK)
             screen.blit(remark_text, [10, 30])
             pygame.image.save(screen, "FD_images/result" + str(remark) + ".png")
-
             # if initial_display == 1:
             #     pygame.image.save(screen, "FD_images/initial" ".jpeg")
             # else:
